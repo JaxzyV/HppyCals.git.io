@@ -11,7 +11,7 @@ const users = [
   {
     username: "user123",
     password: "userpass",
-    redirectTo: "/Prototipe web/Prototipe_HPP/index.html",
+    redirectTo: "https://jaxzyv.github.io/HppyClac/",
   },
   {
     username: "08123456789", // Contoh login dengan nomor handphone
@@ -66,3 +66,4 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
