@@ -14,9 +14,9 @@ const users = [
     redirectTo: "https://jaxzyv.github.io/HppyClac/",
   },
   {
-    username: "08123456789", // Contoh login dengan nomor handphone
-    password: "hpuser",
-    redirectTo: "index.html",
+    username: "smaduwangi", // Contoh login dengan nomor handphone
+    password: "smadupass",
+    redirectTo: "https://jaxzyv.github.io/HppyClac/",
   },
   // Tambahkan user lain di sini
 ];
@@ -66,5 +66,6 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
 
 
